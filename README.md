@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://fernando-herrera.com/" target="blank"><img src="https://devtalles.com/images/vscode.png" width="100" alt="Nest Logo" /></a>
-</p>
-
-# Curso de VSCode
+# VSCode
 Un repositorio donde aprenderemos un par de trucos para trabajar rápidamente con Visual Studio Code.
 
 También hay un par de extensiones bastante útiles que les recomiendo de entrada
